@@ -1,0 +1,3 @@
+Tutaj jest tekst pierwszy. Bez zadnych zmian.
+Pierwsza zmiana dokonana-- commit bedzie 'pierwszy'
+
