@@ -2,4 +2,5 @@ Tutaj jest tekst pierwszy. Bez zadnych zmian. #zmianyan w experimental
 Pierwsza zmiana dokonana-- commit bedzie 'pierwszy'
 Teraz dodalem druga zmiane
 Dodaje zmiany w master nie w experimental
+Kilka zmian 
 
